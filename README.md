@@ -43,7 +43,7 @@ Repostório dedicado ao armazenamento de arquivos do P.I do 4º semestre do curs
 <details>
   <summary> 
 
-  ## Final post-run notes :bookmark_tabs:
+  ## Menções ao fim do projeto :bookmark_tabs:
   
   </summary>
 
